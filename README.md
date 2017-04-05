@@ -1,4 +1,4 @@
-Machine-Learning
+Least-Squares
 ================
 
 The objective of this repository is to make a method for studying machine learning.
